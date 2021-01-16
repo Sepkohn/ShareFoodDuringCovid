@@ -11,4 +11,6 @@ Une invitation sera alors envoyée par e-mail.
 Nous trouverons dans celui-ci un code unique nous permettant d’accéder à la page du site pour faire le vote du repas 
 et de la date. 
 
-Concernant les plats, nous pourrons les afficher depuis notre profil 
+Concernant les plats, nous pourrons les afficher depuis notre profil.
+
+Created by Beeckmans Quentin and Haenggeli Valentin
